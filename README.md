@@ -1,4 +1,4 @@
-# FIT3164 
+# Metaphoric / Sentimental AI Image Captioner (FYP)
 
 ### Google Colab Project Link:
 [Software Notebook](https://colab.research.google.com/drive/1DlDpuxJHpFlEjGrKfDuuzCFhsfxEQmef?authuser=2) <br/>
